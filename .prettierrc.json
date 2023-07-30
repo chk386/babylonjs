@@ -1,9 +1,10 @@
 {
   "doubleQuote": true,
-  "tabWidth": 4,
+  "tabWidth": 2,
   "useTabs": false,
-  "semi": false,
-  "printWidth": 80,
-  "arrowParens": "avoid",
-  "endOfLine": "auto"
+  "semi": true,
+  "printWidth": 120,
+  "arrowParens": "always",
+  "endOfLine": "auto",
+  "trailingComma": "all"
 }
